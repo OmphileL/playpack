@@ -1,0 +1,9 @@
+README.md
+setup.py
+playpack/__init__.py
+playpack/playModule.py
+playpack.egg-info/PKG-INFO
+playpack.egg-info/SOURCES.txt
+playpack.egg-info/dependency_links.txt
+playpack.egg-info/requires.txt
+playpack.egg-info/top_level.txt
